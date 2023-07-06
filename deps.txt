@@ -1,0 +1,3 @@
+cloudinary jsonwebtoken @types/jsonwebtoken graphql-request next-auth
+dev
+grafbase --save-dev
